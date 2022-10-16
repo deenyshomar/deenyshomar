@@ -2,4 +2,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deenyshomar&repo=github-readme-stats)](https://github.com/deenyshomar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deenyshomar)](https://github.com/deenyshomar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deenyshomar&layout=compact)](https://github.com/deenyshomar/github-readme-stats)
