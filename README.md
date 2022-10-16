@@ -4,4 +4,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deenyshomar&repo=alx-low_level_programming&show_icons=true&theme=radical)](https://github.com/deenyshomar/alx-low_level_programming)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deenyshomar&repo=alx-system_engineering-devops&show_icons=true&theme=radical)](https://github.com/deenyshomar/alx-system_engineering-devops)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deenyshomar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
