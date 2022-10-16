@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/top-langs?username=deenyshomar&show_icons=true&theme=radical&layout=compact)](https://github.com/deenyshomar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deenyshomar)](https://github.com/anuraghazra/github-readme-stats)
